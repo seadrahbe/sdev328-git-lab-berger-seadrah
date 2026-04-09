@@ -43,6 +43,11 @@ const poem = `
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
     With coffee brewed and bugs to slay.
+
+    Linux laptops, Git, VSCode tricks,
+    Throwing out code until it sticks.
+    Run the code, though crash it may,
+    Leaving us defeated another day.
 `;
 
 console.log(poem);
